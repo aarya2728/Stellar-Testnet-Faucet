@@ -1,9 +1,5 @@
 # ✨ Stellar Testnet Faucet
 
-A premium, modern interface to connect your **Freighter Wallet** and request testnet XLM from the Stellar Friendbot. Built with performance and user experience in mind.
-
-![Stellar Faucet Preview](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## 🚀 Key Features
 
 - 🦊 **Freighter Wallet Integration**: Seamlessly connect your wallet using the industry-standard Stellar browser extension.
