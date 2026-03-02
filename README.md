@@ -1,4 +1,4 @@
-<img width="1680" height="786" alt="Screenshot 2026-03-02 133013" src="https://github.com/user-attachments/assets/3971ba58-f219-439d-9475-b080c28d0279" /># 🌌 Stellar Swap DEX
+# 🌌 Stellar Swap DEX
 
 A premium decentralized token swap interface powered by the Stellar Network's native DEX and the new lightning-fast **Soroban Smart Contracts**. 
 This project features a robust React frontend with modern aesthetics and an ultra-optimized rust-based WebAssembly (WASM) smart contract for instantaneous quotes and deterministic swaps.
