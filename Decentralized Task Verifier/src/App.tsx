@@ -108,7 +108,7 @@ export default function App() {
             <div className="bg-blue-500 p-2 rounded-lg">
               <FileText className="w-6 h-6 text-white" />
             </div>
-            <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
+            <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-linear-to-r from-blue-400 to-emerald-400">
               Decentralized Task Verifier
             </h1>
           </div>

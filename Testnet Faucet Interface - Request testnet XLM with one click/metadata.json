@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Testnet Faucet",
+  "description": "A simple interface to connect your Freighter wallet and request testnet XLM from the Stellar Friendbot.",
+  "requestFramePermissions": []
+}

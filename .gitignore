@@ -6,12 +6,4 @@ coverage/
 *.log
 .env*
 !.env.example
-
-
-node_modules
-node_modules
-node_modules
-
-vite.config.ts
-metadata.json
 ATTRIBUTIONS.md
